@@ -3,11 +3,11 @@
 Welcome to the Sign Language Detection project repository! This project focuses on using machine learning to detect sign language gestures.
 
 ## Model Weights
-Download my trained model weights:
-- [Model Weights](https://drive.google.com/drive/folders/1B7_U6rLNXSCRmL89Z-cUCLpiLTMfKBT2?usp=share_link)
+Due to their large file size, the model weights have been hosted on Google Drive:
+- [Download Model Weights](https://drive.google.com/drive/folders/1B7_U6rLNXSCRmL89Z-cUCLpiLTMfKBT2?usp=share_link)
 
 ## Dataset
-Download the dataset after enhancement and augmentation:
+Due to their large file sizes, the datasets have been hosted on Google Drive:
 - [Enhanced and Augmented Dataset](https://drive.google.com/drive/folders/1MyD0Jx0ijrp2g7kf7Wn-8wOZjNfGDeuF?usp=share_link)
 
 ## About
